@@ -1,0 +1,47 @@
+@media screen and (min-width: 280px){
+
+
+#logo {
+  width:100px;
+  margin-top:-10px;
+}	
+
+.navbar {
+  background-color: #01181b;
+  height: 50px;
+}
+
+.navbar a {
+  list-style: none;
+  text-decoration: none;
+  color: white!important;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 0px 10px 10px 0px;
+}
+
+.navbar a:hover {
+  color: red!important;
+}
+
+.paragraph {
+	text-align: center;
+
+}
+
+.li{
+	text-align: center;
+	display: block;
+}
+
+#headshot {
+    display: block;
+    text-align: center;
+    margin: 20px auto 0;
+    border: 2px solid white;
+}
+
+
+}
